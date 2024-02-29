@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172064615144",
+    "project_id": "auai-nsvuz7",
+    "storage_bucket": "auai-nsvuz7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172064615144:android:5f36b2908c599c2cf5b75d",
+        "android_client_info": {
+          "package_name": "com.fhbw.auai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawPl7CEUMp_sTz1KWCVqx0ga2qm7qpkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
